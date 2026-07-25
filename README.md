@@ -1,3 +1,16 @@
+# ⚠️ Deprecated — moved to `jphme/math-problems`
+
+**This repository is no longer maintained.** The paper now lives, together with the other
+mathematical results, in:
+
+### → **https://github.com/jphme/math-problems/tree/main/no19tiling**
+
+Please update bookmarks and citations to point there. The files below are kept in place so that
+existing links do not break, but any corrections or an eventual arXiv link will appear only in the
+new repository.
+
+---
+
 # No triangle can be cut into nineteen congruent triangles
 
 The prime case of [Erdős Problem 634](https://www.erdosproblems.com/634): paper + exact-arithmetic verification script.
@@ -44,6 +57,6 @@ arXiv link will be added once the submission is announced. Until then:
   title  = {No triangle can be cut into nineteen congruent triangles:
             the prime case of Erd\H{o}s Problem 634},
   year   = {2026},
-  url    = {https://github.com/jphme/no19tiling}
+  url    = {https://github.com/jphme/math-problems/tree/main/no19tiling}
 }
 ```
